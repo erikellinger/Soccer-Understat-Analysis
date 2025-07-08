@@ -1,8 +1,8 @@
-# ⚽ Understat Web Scraper + Analysis for Europe's Top 5 Leagues
+# Understat Web Scraper + Analysis for Europe's Top 5 Leagues
 
-This project scrapes match and player data from [Understat](https://understat.com/) for the top 5 European leagues — Premier League, La Liga, Bundesliga, Serie A, and Ligue 1 — covering the 2023–24 and 2024–25 seasons.
+This project scrapes match and player data from [Understat](https://understat.com/) for the top 5 European leagues — Premier League, La Liga, Bundesliga, Serie A, and Ligue 1...covering the 2023/24 and 2024/25 seasons.
 
-I built this to automate data collection for soccer analytics work — cutting out the need to rely on expensive or closed-off third-party sources. Everything is scraped, saved as CSV, and then explored in a Jupyter Notebook.
+I built this to automate data collection for soccer analytics work cutting out the need to rely on expensive or closed-off third-party sources. Everything is scraped, saved as CSV, and then explored in a Jupyter Notebook.
 
 ---
 
