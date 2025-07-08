@@ -9,7 +9,7 @@ I built this to automate data collection for soccer analytics work — cutting o
 ## 🔧 What's Included
 
 ### 📂 Data Pipeline
-- [`soccer_data_pipeline.py`](./soccer_data_pipeline.py): Python script that scrapes team and player-level stats from Understat.
+- [`soccer_data_pipeline.py`] Python script that scrapes team and player-level stats from Understat.
 - Outputs:
   - [`understat_team_stats_2023_2024.csv`](./output/understat_team_stats_2023_2024.csv)
   - [`understat_player_stats_2023_2024.csv`](./output/understat_player_stats_2023_2024.csv)
